@@ -1,0 +1,32 @@
+h1{
+    color:#ffeb3b;
+    position:absolute;
+    left:300px;
+}
+
+
+h2{
+    color:aliceblue;
+    position:absolute;
+    top: 200px;
+    left: 400px;
+    animation: slide 1s ease-out;
+}
+
+@keyframes slide{
+    from{
+        left: -100px;
+    }
+    to{
+        left:400px;
+    }
+}
+
+
+
+div{
+    position:absolute;
+    top: 300px;
+    left: 20px;
+}
+

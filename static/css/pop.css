@@ -1,0 +1,40 @@
+body{
+  padding-top: 80;
+ 
+      background: #848383;
+    
+}
+
+
+h1{
+  position:absolute;
+  left: 500px;
+  color:#ffeb3b;
+}
+h2{
+  position:absolute;
+  left: 550px;
+  top: 25%;
+  color:aliceblue;
+  animation: slide 1s ease-out;
+}
+
+@keyframes slide{
+  from{
+      left: -100px;
+  }
+  to{
+      left: 550px;
+  }
+}
+
+
+
+#map_ae1f81780d9e396a4d6e9684b844258b{
+          position: absolute;
+          width: 80.0%;
+          height: 100.0%;
+          left: 10%;
+          top: 40%;
+      }
+

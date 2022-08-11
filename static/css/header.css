@@ -1,0 +1,18 @@
+
+body {
+
+  padding-top: 70px;
+    background: #848383;
+  }
+  
+  a.nav-link{
+    color:#ffeb3b;
+ 
+  }
+  .navbar {
+    display: flex;
+    padding: 8px 12px;
+  }
+
+
+  

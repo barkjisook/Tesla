@@ -1,0 +1,23 @@
+
+body{
+    margin-top: 30
+}
+
+
+div{
+   position:absolute;
+   right: 300px;
+   top: 150px;
+   color:aliceblue;
+   animation:slide 1s ease-out;
+}
+
+
+@keyframes slide{
+    from{
+        right: -100px;
+    }
+    to{
+        right: 300px;
+    }
+}

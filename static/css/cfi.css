@@ -1,0 +1,34 @@
+body{
+    padding-top: 80;
+ 
+    background: #848383;
+ }
+ 
+ 
+ h1{
+    position:absolute;
+    left: 500px;
+    color:#ffeb3b;
+ }
+ h2{
+    position:absolute;
+    left: 550px;
+    top: 25%;
+    color:aliceblue;
+
+ }
+ 
+
+
+ 
+ 
+ #map_b7ddc1239405928a05e48320f8b8ca30 {
+            position: absolute;
+            width: 80.0%;
+            height: 100.0%;
+            left: 10%;
+            top: 40%;
+        }
+
+
+     

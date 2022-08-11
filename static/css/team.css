@@ -1,0 +1,58 @@
+body {
+
+    min-height: 100%;
+    background: #848383;
+  }
+  
+  a.nav-link{
+    color:#ffeb3b;
+  }
+  div{
+    float:left;
+  }
+  
+  .card-text{
+    width: 90%;
+    margin: 100px auto;
+  }
+  
+  #hyun{
+    background-color:#333333;
+    float: left;
+    margin-left: 8%;
+    width:30%;
+    box-sizing: border-box;
+  }
+  .card-header1{
+    color:white;
+    font-size: 30px;
+  }
+  #eul{
+    background-color:#333333;
+    float: left;
+    margin-left: 8%;
+    width:30%;
+    box-sizing: border-box;
+  }
+  .card-header2{
+    color:white;
+    font-size: 30px;
+  }
+  #sook{
+    background-color:#333333;
+    float: left;
+    margin-left: 8%;
+    width:30%;
+    box-sizing: border-box;
+  }
+  .card-header3{
+    color:white;
+    font-size: 30px;
+  }
+  .card-title{
+    color:#ffeb3b;
+  }
+  .card-text{
+    color:white;
+    float: left;
+  }
